@@ -19,12 +19,12 @@ A cross-platform "Jarvis-style" assistant with:
 
 ### Linux (method 1: curl)
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yourname/Jarvis-Ai-Model/main/website/downloads/install_linux.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Xznder1984/Jarvis-Ai-Model/main/website/downloads/install_linux.sh | bash
 ```
 
 ### Linux (method 2: git)
 ```bash
-git clone https://github.com/yourname/Jarvis-Ai-Model.git
+git clone https://github.com/Xznder1984/Jarvis-Ai-Model.git
 cd Jarvis-Ai-Model
 bash scripts/install_linux.sh
 Jarvis
@@ -36,7 +36,7 @@ Jarvis
 
 ### Windows (method 2: git)
 ```powershell
-git clone https://github.com/yourname/Jarvis-Ai-Model.git
+git clone https://github.com/Xznder1984/Jarvis-Ai-Model.git
 cd Jarvis-Ai-Model
 powershell -ExecutionPolicy Bypass -File scripts/install_windows.ps1
 .\Jarvis.bat
